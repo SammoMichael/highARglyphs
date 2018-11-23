@@ -14,29 +14,9 @@ Make sure to allot at least 3 hours to write your readme.
 
 # README
 
-highARglyphs is a web application for the creating and studying flashcards.
-https://higharglyphs.herokuapp.com/#/
+* highARglyphs is a web application for the creating and studying flashcards.
+* https://higharglyphs.herokuapp.com/#/
 
-highARglyphs 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* highARglyphs 
+ 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
