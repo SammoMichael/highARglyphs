@@ -7,9 +7,9 @@
       )
 
 ## Technology
-⋅⋅* Ruby on Rails backend, with data stored using PostgreSQL
-⋅⋅* React and Redux frontend, for a single-page app
-⋅⋅* Augmented Reality and Speech Recognition with JavaScript libraries
+* Ruby on Rails backend, with data stored using PostgreSQL
+* React and Redux frontend, for a single-page app
+* Augmented Reality and Speech Recognition with JavaScript libraries
 
 ## Key Features
 ### Card creation, deletion, initialization and conditional update
