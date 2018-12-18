@@ -20,5 +20,5 @@ Make sure to allot at least 3 hours to write your readme.
 * highARglyphs 
  
 ![Screenshot](
-       app/assests/images/https://github.com/SammoMichael/highARglyphs/blob/master/app/assets/images/Screen%20Shot%202561-12-18%20at%203.24.00%20PM.png
+       highARglyphs/app/assets/images/Webp.net-gifmaker (1).gif
       )
