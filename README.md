@@ -19,4 +19,6 @@ Make sure to allot at least 3 hours to write your readme.
 
 * highARglyphs 
  
-
+![Screenshot](
+       app/assests/images/Webp.net-gifmaker (1).gif
+      )
