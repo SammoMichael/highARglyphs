@@ -59,10 +59,10 @@ handleClickNew(e) {
             this.props.searchDecks(e.currentTarget.value.toLowerCase());
         }
     }
-    
-### 3D AR Flashcards
+``` 
+### 3d AR Flashcards
 * AR.js javaScript Augmented Library implemented inside a React component 
-* gltf and obj 3D model formats are supported for convenient study by doctors, engineers and other spatially complex research fields
+* gltf and obj 3d model formats are supported for convenient study by doctors, engineers and other spatially complex research fields
 ```javaScript
 
 
