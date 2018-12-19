@@ -65,7 +65,7 @@ handleClickNew(e) {
 * gltf and obj 3D model formats are supported for convenient study by doctors, engineers and other spatially complex research fields
 ```javaScript
 
-```
+
 import React from 'react';
 import Back from './back';
 
