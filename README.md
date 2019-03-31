@@ -1,6 +1,6 @@
 # README
 
-* [highARglyphs](https://higharglyphs.herokuapp.com) is a web application for creating and studying flashcards. Inspired by Brainscape, I decided to take a more minimalistic direction and bring my app into the 21st century by integrating speech recognition and 3d AR flashcards(a work in progress).
+* [highARglyphs](https://higharglyphs.herokuapp.com) is a web application for creating and studying flashcards. Inspired by Brainscape, I decided to take a more minimalistic direction and bring my app into the 21st century by integrating speech recognition and 3d AR flashcards.
  
 ![Screenshot](
       app/assets/images/highARglyphs.gif
